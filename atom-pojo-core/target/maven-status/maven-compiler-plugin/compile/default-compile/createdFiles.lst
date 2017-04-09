@@ -1,7 +1,0 @@
-com/atom/pojo/domain/service/PojoService.class
-com/atom/pojo/application/PojoManager.class
-com/atom/pojo/infrastructure/model/PojoRepositoryImpl.class
-com/atom/pojo/domain/model/mapper/PojoMapper.class
-com/atom/pojo/infrastructure/service/PojoServiceImpl.class
-com/atom/pojo/domain/model/PojoRepository.class
-com/atom/pojo/domain/event/PojoEvent.class
