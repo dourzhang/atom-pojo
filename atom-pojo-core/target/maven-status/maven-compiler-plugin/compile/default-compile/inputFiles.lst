@@ -1,0 +1,8 @@
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/infrastructure/service/PojoServiceImpl.java
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/domain/model/PojoRepository.java
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/domain/event/PojoEvent.java
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/domain/service/PojoService.java
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/application/PojoManager.java
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/domain/model/mapper/PojoMapper.java
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/domain/package-info.java
+/Users/ytx/atom/atom-pojo/atom-pojo-core/src/main/java/com/atom/pojo/infrastructure/model/PojoRepositoryImpl.java

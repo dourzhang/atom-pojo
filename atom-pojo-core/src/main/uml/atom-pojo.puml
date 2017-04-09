@@ -1,0 +1,17 @@
+@startuml
+
+Pojo<-right-PojoA
+Pojo <-left-PojoB
+PojoC -up->Pojo
+PojoD-->Pojo
+
+
+class Seller{
+  -id
+  -accountId 账号
+  -createdAt 创建时间
+  -updatedAt 修改时间
+
+}
+
+@enduml
