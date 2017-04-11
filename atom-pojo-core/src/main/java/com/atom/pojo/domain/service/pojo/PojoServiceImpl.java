@@ -1,6 +1,6 @@
-package com.atom.pojo.infrastructure.service;
+package com.atom.pojo.domain.service.pojo;
 
-import com.atom.pojo.domain.service.PojoService;
+import com.atom.pojo.domain.service.pojo.PojoService;
 
 /**
  * PojoService Impl

@@ -1,4 +1,4 @@
-package com.atom.pojo.domain.service;
+package com.atom.pojo.domain.service.pojo;
 
 /**
  * Pojo Service
